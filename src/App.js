@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Hi There, it''s really fantastic to run website under Docker and real time udpate. with docker-compose.
+          feature branch reflected.
         </p>
         <a
           className="App-link"
